@@ -6,3 +6,8 @@ ejercicios de python curso
 3. ejercicios condicionales
 4.ejercicios de excepciones
 5.ejercicios de funciones
+
+carpeta dia2:
+  1.clases
+  2.bucles
+  3.ETL
