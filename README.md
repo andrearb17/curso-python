@@ -11,3 +11,8 @@ carpeta dia2:
   1.clases
   2.bucles
   3.ETL
+  
+carpeta dia3:
+1.Prophit
+2.Librerias
+3.Numpy
