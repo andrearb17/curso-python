@@ -18,7 +18,7 @@ carpeta dia3:
 3.Numpy
 
 carpeta dia4:
-1.
-2.
-3.
-4.
+1. Data collection
+2.EDA
+3.EDA SQL
+4.EDA Data Visualization
