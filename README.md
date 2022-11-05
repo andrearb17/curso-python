@@ -16,3 +16,9 @@ carpeta dia3:
 1.Prophit
 2.Librerias
 3.Numpy
+
+carpeta dia4:
+1.
+2.
+3.
+4.
